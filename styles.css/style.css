@@ -6,3 +6,8 @@
     display: flex;
     justify-content: space-between;
 }
+.font-style h1{
+    font-size: 50px;
+    font-weight: 800;
+    padding: 70px 0px;
+}
